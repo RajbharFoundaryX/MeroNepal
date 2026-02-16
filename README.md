@@ -1,2 +1,2 @@
 # MeroNepal
-my mission to clean the city.
+my mission is clean the city.
